@@ -3,7 +3,14 @@
     {
       "id": "mrh2x90qrxhleq",
       "name": "테스트 상품",
-      "sellers": []
+      "sellers": [
+        {
+          "id": "mrh2zup4gm6ktu",
+          "link": "https://detail.1688.com/offer/1039041139315.html?spm=a26352.b28411319/2508.0.0",
+          "memo": "",
+          "options": []
+        }
+      ]
     }
   ]
 }
