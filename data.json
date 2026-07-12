@@ -1,3 +1,9 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "mrh2x90qrxhleq",
+      "name": "테스트 상품",
+      "sellers": []
+    }
+  ]
 }
